@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: SFBlack;
+  src: url('./fonts/SF\ UI\ Display-Black.otf');
+}
+
+@font-face {
+  font-family: SFBold;
+  src: url('./fonts/SF\ UI\ Display-Bold.otf');
+}
+
+@font-face {
+  font-family: SFRegular;
+  src: url('./fonts/SF\ UI\ Display-Regular.otf');
+}
+
+@font-face {
+  font-family: SFLight;
+  src: url('./fonts/SF\ UI\ Display-Light.otf');
+}
+
+@font-face {
+  font-family: Satoshi-Bold;
+  src: url('./fonts/Satoshi-Bold.otf');
+}
+
+@font-face {
+  font-family: Satoshi-Medium;
+  src: url('./fonts/Satoshi-Medium.otf');
+}
+
+@font-face {
+  font-family: Satoshi;
+  src: url('./fonts/Satoshi-Regular.otf');
+}

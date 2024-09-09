@@ -1,0 +1,472 @@
+[
+    {
+        "courseSectionId": 1,
+        "title": "Electrical and Electronics",
+        "courses": [
+            {
+                "courseId": 1,
+                "title": "Electrical Installation and Maintenance",
+                "image": "/assets/course/eim.jpg",
+                "modules": [
+                    {
+                        "moduleId": 4, 
+                        "title": "Installing Wiring Devices for Floor and Wall Mounted Outlets, Lighting Fixtures, Switches, and Auxiliary Outlets",
+                        "image": "/assets/course/eim.jpg",
+                        "units": [
+                            {
+                                "unitId": 1,
+                                "title": "Installing Lighting Fixtures/Luminaries and Switches",
+                                "image": "/assets/units/unit1.jpg",
+                                "toolGroup": [
+                                    {
+                                        "toolGroupId": 1,
+                                        "title": "Common Electrical Tools",
+                                        "image": "/assets/toolGroups/toolGroup1.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 1,
+                                                "name": "Screwdriver",
+                                                "modelPath": "screwdriver",
+                                                "description": "Screwdrivers are hand tools specifically designed for inserting, tightening, loosening, and removing screws."
+                                            },
+                                            {
+                                                "toolId": 2,
+                                                "name": "Pliers",
+                                                "modelPath": "pliers",
+                                                "description": "Pliers are used to hold, bend, and stretch the lead of electronic components or to connect and cut wires."
+
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "toolGroupId": 2,
+                                        "title": "Lamps",
+                                        "image": "/assets/toolGroups/toolGroup2.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 3,
+                                                "name": "Incandescent",
+                                                "modelPath": "incandescent",
+                                                "description": "This type of lamp can be typically used for only 1000 to 2000 hours, and only about 15% of its energy transforms to light, while the rest becomes heat, making it the least efficient among the common light sources."
+                                            },
+                                            {
+                                                "toolId": 4,
+                                                "name": "Tungsten-Halogen",
+                                                "description": "This is a popular type of incandescent lamp that emits a whiter, more intense light compared to standard incandescent lamps. They are usually applied for decorative, display, or accent lighting."
+                                            },
+                                            {
+                                                "toolId": 5,
+                                                "name": "Compact Fluorescent Lamps",
+                                                "modelPath": "compact_fluorescent",
+                                                "description": "This type of lamp operates like a standard fluorescent lamp. However, it is made to produce colors similar to incandescent lamps."
+
+                                            },
+                                            {
+                                                "toolId": 6,
+                                                "name": "Fluorescent Lamps",
+                                                "description": "Tubular fluorescent lamps are one of the most common sources of commercial lighting and also among the most efficient."
+                                            },
+                                            {
+                                                "toolId": 7,
+                                                "name": "High Intensity Discharge",
+                                                "description": "This is a high output light source that incorporates mercury vapor, metal halide, high-pressure sodium, and low-pressure sodium lighting."
+                                            },
+                                            {
+                                                "toolId": 8,
+                                                "name": "Light Emitting Diode (LED) Lamps",
+                                                "description": "This type of lamp enables long-term cost savings, and safety advantages through its durability."
+                                            }
+
+                                        ]
+                                    },
+                                    {
+                                        "toolGroupId": 3,
+                                        "title": "Types of Lighting Fixtures",
+                                        "image": "/assets/toolGroups/toolGroup3.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 9,
+                                                "name": "Surface Mounted Fixtures"
+                                            },
+                                            {
+                                                "toolId": 10,
+                                                "name": "Pendant Fixtures"
+                                            },
+                                            {
+                                                "toolId": 11,
+                                                "name": "Recessed Lighting"
+                                            },
+                                            {
+                                                "toolId": 12,
+                                                "name": "Track Lighiting"
+                                            },
+                                            {
+                                                "toolId": 13,
+                                                "name": "Portable Fixtures"
+                                            },
+                                            {
+                                                "toolId": 14,
+                                                "name": "Outdoor Lighting Fixtures"
+                                            }
+
+                                        ]
+                                    },
+                                    {
+                                        "toolGroupId": 4,
+                                        "title": "Switches",
+                                        "image": "/assets/toolGroups/toolGroup4.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 15,
+                                                "name": "Single Pole Single Throw Switch"
+                                            },
+                                            {
+                                                "toolId": 16,
+                                                "name": "Single Pole Double Throw"
+                                            },
+                                            {
+                                                "toolId": 17,
+                                                "name": "Double Pole Single Throw"
+                                            },
+                                            {
+                                                "toolId": 18,
+                                                "name": "Double Pole Double Throw"
+                                            },
+                                            {
+                                                "toolId": 19,
+                                                "name": "Intermediate/Four-Way Switch"
+                                            },
+                                            {
+                                                "toolId": 20,
+                                                "name": "Push Button Switch"
+                                            },
+                                            {
+                                                "toolId": 21,
+                                                "name": "Dimmer Switch"
+                                            },
+                                            {
+                                                "toolId": 22,
+                                                "name": "Photosensor Switch"
+                                            }
+
+                                        ]
+                                    }
+                                ],
+
+                                "practicalGroup": [ 
+                                    {
+                                        "practicalGroupId": 1,
+                                        "title": "Installing Recessed Lighting Fixtures",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 5
+                                    },
+                                    {
+                                        "practicalGroupId": 2,
+                                        "title": "Installing Track Lighting Fixtures",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 10
+                                    },
+                                    {
+                                        "practicalGroupId": 3,
+                                        "title": "Installing Fluorescent Lighting Fixtures",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 4,
+                                        "title": "Installing a Lamp Controlled by SPST Switch",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 5,
+                                        "title": "Installing a Lamp Controlled in 2 Different Locations Using SPDT",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 6,
+                                        "title": "Installing a Lamp Controlled in 3 Different Locations Using 2 SPDT",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 7,
+                                        "title": "Functional Testing and Troubleshooting Fluorescent Lighting Fixtures",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 8,
+                                        "title": "Functional Testing and Troubleshooting Incandescent Lamps",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 9,
+                                        "title": "Conducting Functional Testing on Single Pole and Three-Way Switches",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    }
+
+                                ]
+                            },
+                            {
+                                "unitId": 2,
+                                "title": "Installing Auxilliary Outlets",
+                                "image": "/assets/units/unit2.jpg",
+                                "toolGroup": [
+                                    {
+                                        "toolGroupId": 5,
+                                        "title": "Types of Outlets",
+                                        "image": "/assets/toolGroups/toolGroup5.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 23,
+                                                "name": "Floor Outlet"
+                                            },
+                                            {
+                                                "toolId": 24,
+                                                "name": "Duplex Convenience Outlet"
+                                            },
+                                            {
+                                                "toolId": 25,
+                                                "name": "Range Outlet"
+                                            },
+                                            {
+                                                "toolId": 26,
+                                                "name": "Tamper Resistant Outlet"
+                                            },
+                                            {
+                                                "toolId": 27,
+                                                "name": "Weatherproof Outlet"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "toolGroupId": 6,
+                                        "title": "CCTV Systems and Cameras",
+                                        "image": "/assets/toolGroups/toolGroup6.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 28,
+                                                "name": "Analog Closed Circuit Television"
+                                            },
+                                            {
+                                                "toolId": 29,
+                                                "name": "Digital CCTV or IP Camera"
+                                            },
+                                            {
+                                                "toolId": 30,
+                                                "name": "Bullet Type"
+                                            },
+                                            {
+                                                "toolId": 31,
+                                                "name": "Infrared Night Vision Type"
+                                            },
+                                            {
+                                                "toolId": 32,
+                                                "name": "Network/IP Type"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "toolGroupId": 7,
+                                        "title": "Cable and Connectors",
+                                        "image": "/assets/toolGroups/toolGroup7.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 33,
+                                                "name": "Category 5 (CAT5 Cable)"
+                                            },
+                                            {
+                                                "toolId": 34,
+                                                "name": "Bayonet Neill Concelman Connector"
+                                            },
+                                            {
+                                                "toolId": 35,
+                                                "name": "RJ45 Connector "
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "toolGroupId": 8,
+                                        "title": "Video Recording Device",
+                                        "image": "/assets/course/eim.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 36,
+                                                "name": "Network Video Recorder"
+                                            },
+                                            {
+                                                "toolId": 37,
+                                                "name": "Digital Video Recorder"
+                                            },
+                                            {
+                                                "toolId": 38,
+                                                "name": "Monitor"
+                                            },
+                                            {
+                                                "toolId": 39,
+                                                "name": "Power Supply"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "toolGroupId": 9,
+                                        "title": "FDAS Components",
+                                        "image": "/assets/course/eim.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 40,
+                                                "name": "Primary Power Supply"
+                                            },
+                                            {
+                                                "toolId": 41,
+                                                "name": "Secondary Power Supply"
+                                            },
+                                            {
+                                                "toolId": 42,
+                                                "name": "Manual Pull Stations"
+                                            },
+                                            {
+                                                "toolId": 43,
+                                                "name": "Smoke Detectors"
+                                            },
+                                            {
+                                                "toolId": 44,
+                                                "name": "Flame Detectors"
+                                            },
+                                            {
+                                                "toolId": 45,
+                                                "name": "Heat Detectors"
+                                            },
+                                            {
+                                                "toolId": 46,
+                                                "name": "Combination Detectors"
+                                            },
+                                            {
+                                                "toolId": 47,
+                                                "name": "Waterflow Detectors"
+                                            },
+                                            {
+                                                "toolId": 48,
+                                                "name": "Output Devices"
+                                            },
+                                            {
+                                                "toolId": 49,
+                                                "name": "Others"
+                                            }
+
+                                        ]
+                                    },
+                                    {
+                                        "toolGroupId": 10,
+                                        "title": "Types of Fire Alarms",
+                                        "image": "/assets/toolGroups/toolGroup10.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 50,
+                                                "name": "Conventional"
+                                            },
+                                            {
+                                                "toolId": 51,
+                                                "name": "Addressable"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "toolGroupId": 11,
+                                        "title": "Door Access Control System",
+                                        "image": "/assets/course/eim.jpg",
+                                        "tools": [
+                                            {
+                                                "toolId": 52,
+                                                "name": "Server"
+                                            },
+                                            {
+                                                "toolId": 53,
+                                                "name": "Reader"
+                                            },
+                                            {
+                                                "toolId": 54,
+                                                "name": "Credential"
+                                            },
+                                            {
+                                                "toolId": 55,
+                                                "name": "Controller"
+                                            },
+                                            {
+                                                "toolId": 56,
+                                                "name": "Door Lock"
+                                            }
+                                        ]
+                                    }
+                                ],
+
+                                "practicalGroup": [ 
+                                    {
+                                        "practicalGroupId": 1,
+                                        "title": "Installing Special Purpose Outlets",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 5
+                                    },
+                                    {
+                                        "practicalGroupId": 2,
+                                        "title": "Installing CCTV System",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 10
+                                    },
+                                    {
+                                        "practicalGroupId": 3,
+                                        "title": "Installing Conventional Fire Detection and Alarm System (FDAS)",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 4,
+                                        "title": "Installing the Door Access Control System",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 5,
+                                        "title": "Performing Functional Test and Configuration on CCTV System",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 6,
+                                        "title": "Installing a Lamp Controlled in 3 Different Locations Using 2 SPDT",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 7,
+                                        "title": "Functional Testing and Troubleshooting Fluorescent Lighting Fixtures",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 8,
+                                        "title": "Functional Testing and Troubleshooting Incandescent Lamps",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    },
+                                    {
+                                        "practicalGroupId": 9,
+                                        "title": "Conducting Functional Testing on Single Pole and Three-Way Switches",
+                                        "image": "/assets/course/eim.jpg",
+                                        "steps": 12
+                                    }
+
+                                ]
+                            }
+                        ]
+
+                    }
+                ]
+            }
+        ]
+    }
+]
